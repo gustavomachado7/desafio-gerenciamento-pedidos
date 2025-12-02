@@ -1,0 +1,6 @@
+# Node modules
+node_modules/
+
+# Banco de dados local (SQLite)
+*.db
+*.sqlite
